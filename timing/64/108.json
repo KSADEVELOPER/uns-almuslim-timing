@@ -1,1 +1,1 @@
-{"reader_index": 64, "surah": 108, "timing": [{"ayah": 1, "start_time": 0, "end_time": 11240}, {"ayah": 2, "start_time": 11240, "end_time": 16320}, {"ayah": 3, "start_time": 16320, "end_time": 21560}]}
+{"reader_index": 64, "surah": 108, "timing": [{"ayah": 1, "start_time": 4343, "end_time": 10889}, {"ayah": 2, "start_time": 11469, "end_time": 14371}, {"ayah": 3, "start_time": 15092, "end_time": 20636}], "aligner": "mms-b"}
