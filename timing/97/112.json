@@ -1,1 +1,1 @@
-{"reader_index": 97, "surah": 112, "timing": [{"ayah": 1, "start_time": 0, "end_time": 7760}, {"ayah": 2, "start_time": 7760, "end_time": 10000}, {"ayah": 3, "start_time": 10000, "end_time": 13320}, {"ayah": 4, "start_time": 13320, "end_time": 18520}]}
+{"reader_index": 97, "surah": 112, "timing": [{"ayah": 1, "start_time": 4842, "end_time": 6903}, {"ayah": 2, "start_time": 7823, "end_time": 9544}, {"ayah": 3, "start_time": 10404, "end_time": 12465}, {"ayah": 4, "start_time": 13365, "end_time": 16806}], "aligner": "mms-b"}
